@@ -1,3 +1,6 @@
+# Stuff I dont want
+*.vscode
+
 # Compiled source #
 ###################
 *.com
